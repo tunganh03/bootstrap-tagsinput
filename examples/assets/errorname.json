@@ -12,7 +12,7 @@
   "Không cất ghế sau giờ tập trung (-1 điểm)",
   "Nói bậy (-2 điểm)",
   "Ăn quà không đúng nơi quy định (-2 điểm)",
-  "Hút thuốc lá trong trường (-5 điểm)"
+  "Hút thuốc lá trong trường (-5 điểm)",
   "Không dừng xe ở cổng trường (-5 điểm)",
   "Không dừng xe ở cổng trường khi đã nhắc nhở (-10 điểm)",
   "Không đội mũ bảo hiểm (-10 điểm)",
@@ -26,7 +26,7 @@
   "Không đóng cửa tắt điện sau giờ học (-2 điểm)",
   "Sử dụng nhà vệ sinh không đúng cách (-2 điểm)",
   "Làm vỡ cửa kính (-5 điểm)",
-  "Đá bóng không đúng nơi quy định (-2 điểm)"
+  "Đá bóng không đúng nơi quy định (-2 điểm)",
   "Sử dụng không đúng khu vực vệ sinh cho phép (-5 điểm)",
   "Đánh nhau (-50 điểm)",
   "Đánh nhau không khai báo thành khẩn (-80 điểm)",
@@ -41,5 +41,5 @@
   "Lớp trực tuần bỏ buổi trực (-10 điểm)",
   "Lớp trực tuần xuống trực cổng muộn (-5 điểm)",
   "Lớp trực tuần chuẩn bị không tốt cho buổi tập trung (-10 điểm)"
-  "Đội mũ bảo hiểm không cài quai (-5 điểm)"
+  "Đội mũ bảo hiểm không cài quai (-5 điểm)",
 ]
